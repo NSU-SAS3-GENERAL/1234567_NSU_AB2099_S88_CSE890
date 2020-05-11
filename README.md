@@ -1,4 +1,4 @@
-# 1234567_NSU_AB2099_S88_CSE890
+# Standard repository for NSU ECE code submissions
 
 ```
 1234567 : 
