@@ -24,13 +24,10 @@ If the student is in Section 09, this will be S09.
 
 ### Say the student details are the following:
 
-Student ID: __1412391__
-
-Course: __CSE373__
-
-Section: __1__
-
-Semester: __Summer 2020__
+- Student ID: __1412391__
+- Course: __CSE373__
+- Section: __1__
+- Semester: __Summer 2020__
 
 Repository name will be the following:
 
