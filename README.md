@@ -1,9 +1,9 @@
 # 1234567_NSU_AB2099_S88_CSE890
 
-'''
+```
 1234567 : 
 NSU 7 Digit Student ID. 
-'''
+```
 
 AB2099 : Semester name. 
 If this is Summer 2021, it would be SU2021. 
